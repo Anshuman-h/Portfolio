@@ -7,6 +7,7 @@
 node_modules/
 dist/
 src/assets
+build/
 
 # Compiled Java class files
 *.class
